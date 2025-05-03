@@ -1,0 +1,25 @@
+# 🌍 Import-Export Trade Analysis Dashboard
+
+This project analyzes international trade data to uncover trends in imports, exports, top trading partners, and product-level insights. Built using **Google Sheets** and **Power BI**, the dashboard helps stakeholders make data-driven decisions around trade strategies.
+
+## 📊 Key Features
+- Country-wise import vs export comparison
+- Top 10 traded products by volume/value
+- Trade surplus/deficit trend line
+- Product-wise YoY and MoM growth analysis
+- Dynamic filters for year, country, and product category (HS Code)
+
+## 🛠 Tools Used
+- Google Sheets (Data cleaning, pre-processing)
+- Power BI (Dashboard creation, DAX measures)
+- Excel (Data transformation support)
+
+## 📂 Files Included
+- `/Data` - Sample anonymized import-export data (CSV/Excel)
+- `/PowerBI` - PBIX file of the dashboard
+- `/Screenshots` - Dashboard visuals
+- `/Scripts` - Any supporting formula logic or calculations used in Google Sheets
+
+
+## 👤 Author
+Devesh Shukla - Data Analyst  
